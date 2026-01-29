@@ -25,3 +25,11 @@
         - SeniorOfficer
   items:
     - ClothingUniformJumpsuitSeniorTrooper
+
+- type: loadout
+  id: LoadoutClicker
+  category: Items
+  cost: 0
+  canBeHeirloom: true
+  items:
+    - Clicker
